@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋🏾
 
 <!--
 **JoslynP1/JoslynP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩🏾‍💻 I'm a **Unity developer** who creates **XR** applications.
+- 👾 I mainly program using `C#`, `Python`, and `Java`.
+- ⚡ I'm interested in XR (AR/VR/MR) development, Unity development, and anything related to real-time 3D technology.
+- 🎮 Fun fact: Two of my main hobbies are playing video games and watching movies. I love seeing the connections between the technology used in these fields and real-time 3D.
